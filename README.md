@@ -21,7 +21,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-// <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
 </p>
 
 
@@ -29,11 +29,10 @@
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimMahmoud&layout=compact&theme=dark" alt=Youhana-Gergis />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=KarimMahmoud
-           &show_icons=true&locale=en&theme=dark" alt="Youhana-Gergis" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=KarimMahmoud&show_icons=true&locale=en&theme=dark" alt="Youhana-Gergis" /></p>
 
 
-<a href="https://github.com/Youhana-Gergis">
+<a href="https://github.com/KarimMahmoud">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KarimMahmoud&theme=2077" height="180em" />
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KarimMahmoud&theme=2077" height="180em" />
