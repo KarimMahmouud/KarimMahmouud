@@ -8,11 +8,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KarimMahmoud&label=Profile%20views&color=0e75b6&style=flat" alt="KarimMahmoud" /> </p>
 
 - 💬 Ask me about Mobile * Dart , Flutter *
-- 📫 How to reach me karimgad460@gmail.com , 01062047605
+- 📫 How to reach me karimgad461@gmail.com , 01062047605
 
 
 <div> <a href="https://www.linkedin.com/in/karim-mahmoud-271255259/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/KarimMahmoud" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://github.com/KarimMahmouud" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "https://karimgad461@gmail.com , 01289587721"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,12 +27,12 @@
 
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimMahmoud&layout=compact&theme=dark" alt=Youhana-Gergis />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimMahmoud&layout=compact&theme=dark" alt=KarimMahmoud />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=KarimMahmoud&show_icons=true&locale=en&theme=dark" alt="Youhana-Gergis" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=KarimMahmoud&show_icons=true&locale=en&theme=dark" alt="KarimMahmoud" /></p>
 
 
-<a href="https://github.com/KarimMahmoud">
+<a href="https://github.com/KarimMahmouud">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KarimMahmoud&theme=2077" height="180em" />
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KarimMahmoud&theme=2077" height="180em" />
