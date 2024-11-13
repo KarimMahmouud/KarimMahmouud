@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KarimMahmoud&label=Profile%20views&color=0e75b6&style=flat" alt="KarimMahmoud" /> </p>
 
-- 💬 Ask me about FrontEnd * Dart , Flutter *
+- 💬 Ask me about Mobile * Dart , Flutter *
 - 📫 How to reach me karimgad460@gmail.com , 01062047605
 
 
