@@ -22,7 +22,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://img.icons8.com/color/512/flutter.png" alt="Javascript" width="40" height="40"/>
-
+</p>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOZdMC_FB3iUt9yQZujx9L8Etp5FdbP75UJQ&s" alt="html" width="40" height="40"/>
 </p>
 
